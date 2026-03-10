@@ -79,7 +79,7 @@ given credentials on mail
 
 Start the backend server
 
-npm run dev
+npm run start
 
 Server will run on:
 
@@ -96,7 +96,7 @@ npm install
 
 Start Next.js development server
 
-npm run dev
+npm run start
 
 Frontend runs on:
 
